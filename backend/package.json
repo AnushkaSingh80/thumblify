@@ -20,7 +20,8 @@
     "dotenv": "^17.2.3",
     "express": "^4.19.2",
     "express-session": "^1.19.0",
-    "mongoose": "^9.1.5"
+    "mongoose": "^9.1.5",
+    "tsx": "^4.21.0"
   },
   "devDependencies": {
     "@types/bcrypt": "^6.0.0",
@@ -28,7 +29,6 @@
     "@types/express": "^4.17.21",
     "@types/express-session": "^1.18.2",
     "nodemon": "^3.1.11",
-    "tsx": "^4.21.0",
     "typescript": "^5.9.3"
   }
 }
